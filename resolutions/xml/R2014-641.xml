@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<resolution>
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dublinCore>
+      <dc:title>Recognition extended to Smart Chicago on efforts toward a digital democracy</dc:title>
+      <dc:publisher>Office of the Chicago Clerk</dc:publisher>
+      <dc:date>2014-09-10</dc:date>
+      <dc:format>text/xml</dc:format>
+      <dc:language>EN</dc:language>
+    </dublinCore>
+  </metadata>
+  <main>
+    <form>
+      <date>9/10/2014</date>
+      <sponsor>Mendoza (Clerk)</sponsor>
+    </form>
+    <level role="whereas">Whereas, on every continent, legislative bodies and elected officials are working together with civil society to ensure that legislative information and processes are open to the citizens. And some of the most innovative digital governance and monitoring tools are being built around legislative data; and</level>
+    <level role="whereas">Whereas, Smart Chicago is a civic organization devoted to improving lives in Chicago through technology by increasing access to the Internet, improving skills for using the Internet, and by developing meaningful products from data. Smart Chicago measurably contributes to the quality of life of residents in our region and beyond; and</level>
+    <level role="whereas">Whereas, on November 13, 2013 Smart Chicago initiated and hosted an OpenGov Chicago- land meetup at the Chicago Cultural Center to discuss public access to the Chicago Municipal Code, engaging a panel of experts on law, open data, and the digital democracy movement including Chicago City Clerk Susana A. Mendoza; Julia Ellis, Legislative Counsel at Chicago City Clerk; Carl Malamud, a renowned technologist, author, public domain advocate, and President and Founder of PublicResource.Org; Waldo Jaquith, an Open Government Technologist who is leading efforts to test the Open Data Institute model for open data standards in the United States; and Seamus Kraft, Executive Director ofthe OpenGov Foundation; and</level>
+    <level role="whereas">Whereas, the dedicated work of Smart Chicago led directly to the partnerships and creation of ChicagoCode.org, a free, public resource which provides the Chicago Municipal Code on a modern application program interface (API), enables bulk downloads to foster other development projects, elegant typography, and embedded definitions of legal terms; and</level>
+    <level role="whereas">Whereas, it is particularly fitting to recognize Smart Chicago and its executive Director Daniel O'Neil for pioneering this cause in conjunction with the first-ever Global Legislative Openness Week, September 15-25, 2014; now, therefore,</level>
+    <level role="resolved">BE IT RESOLVED, That we, the Mayor and members of the City Council of the City of Chicago gathered here this tenth day of September 2014, do hereby recognize and congratulate Smart Chicago for all of its valued efforts in the move towards a digital democracy; and</level>
+    <level role="furtherResolved">BE IT FURTHER RESOLVED, That a suitable copy ofthis resolution be prepared and presented to Smart Chicago's Director Daniel O'Neil.</level>
+    <signature>City Clerk Susana A. Mendoza</signature>
+  </main>
+</resolution>
