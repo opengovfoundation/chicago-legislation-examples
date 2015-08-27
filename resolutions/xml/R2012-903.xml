@@ -16,18 +16,18 @@
       <sponsor>Pawar, Ameya (47)</sponsor>
       <sponsor>Moore, Joseph (49)</sponsor>
     </form>
-    <level role="whereas">WHEREAS, the City of Chicago, the Chicago City Council, and the Mayor of Chicago were deeply saddened by the events on August 5, 2012, when six Sikh Americans were killed and others were seriously injured at the Sikh Temple of Wisconsin; and</level>
-    <level role="whereas">WHEREAS, first responders and public safety officials in Wisconsin should be commended for their quick response that saved lives and prevented even greater losses; and</level>
-    <level role="whereas">WHEREAS, the Sikh American community should be supported in their efforts to heal their community; and</level>
-    <level role="whereas">WHEREAS, the City of Chicago, the Chicago City Council, and the Mayor of Chicago express our profound sympathies to the families of those killed and injured and to the entire Oak Creek, Wisconsin, community and the Sikh American conununity; and</level>
-    <level role="whereas">WHEREAS, the tragedy at the Sikh gurdwara and recent hate attacks and vandalism at mosques in Illinois and throughout our country, are occurring at a time when there has been an increase in rhetorical attacks, harassment, intimidation, bullying and violence against Sikhs, Muslims, South Asian Americans, Arab Americans, and other communities; and</level>
-    <level role="whereas">WHEREAS, in the City of Chicago, we advance the principles of non-violence, tolerance, religious freedom, trust and safety, and recognize that these principles are vital to all communities in our City; and</level>
-    <level role="whereas">WHEREAS, the City of Chicago's core values include justice, equality, understanding and respect for all people of all backgrounds and faiths, and we continually strive for a culture where tolerance and solidarity trump fear and cowardice; and</level>
-    <level role="whereas">WHEREAS, the City of Chicago, the Chicago City Council, and Mayor believe that there is no place in our City and society for xenophobia, racism, anti-religious hate rhetoric, and violence; and</level>
-    <level role="whereas">WHEREAS, as elected leaders we understand that our office carries a great duty to engage in thoughtful and informed discussions and ask all elected leaders to think before they speak; and</level>
-    <level role="whereas">WHEREAS, the City of Chicago condemns acts of hatred and violence against all people regardless of ethnic, religious or racial identity - an attack on any one of us, is an attack on all of us; NOW, THEREFORE,</level>
+    <level role="whereas"><heading>WHEREAS</heading>, the City of Chicago, the Chicago City Council, and the Mayor of Chicago were deeply saddened by the events on August 5, 2012, when six Sikh Americans were killed and others were seriously injured at the Sikh Temple of Wisconsin; and</level>
+    <level role="whereas"><heading>WHEREAS</heading>, first responders and public safety officials in Wisconsin should be commended for their quick response that saved lives and prevented even greater losses; and</level>
+    <level role="whereas"><heading>WHEREAS</heading>, the Sikh American community should be supported in their efforts to heal their community; and</level>
+    <level role="whereas"><heading>WHEREAS</heading>, the City of Chicago, the Chicago City Council, and the Mayor of Chicago express our profound sympathies to the families of those killed and injured and to the entire Oak Creek, Wisconsin, community and the Sikh American conununity; and</level>
+    <level role="whereas"><heading>WHEREAS</heading>, the tragedy at the Sikh gurdwara and recent hate attacks and vandalism at mosques in Illinois and throughout our country, are occurring at a time when there has been an increase in rhetorical attacks, harassment, intimidation, bullying and violence against Sikhs, Muslims, South Asian Americans, Arab Americans, and other communities; and</level>
+    <level role="whereas"><heading>WHEREAS</heading>, in the City of Chicago, we advance the principles of non-violence, tolerance, religious freedom, trust and safety, and recognize that these principles are vital to all communities in our City; and</level>
+    <level role="whereas"><heading>WHEREAS</heading>, the City of Chicago's core values include justice, equality, understanding and respect for all people of all backgrounds and faiths, and we continually strive for a culture where tolerance and solidarity trump fear and cowardice; and</level>
+    <level role="whereas"><heading>WHEREAS</heading>, the City of Chicago, the Chicago City Council, and Mayor believe that there is no place in our City and society for xenophobia, racism, anti-religious hate rhetoric, and violence; and</level>
+    <level role="whereas"><heading>WHEREAS</heading>, as elected leaders we understand that our office carries a great duty to engage in thoughtful and informed discussions and ask all elected leaders to think before they speak; and</level>
+    <level role="whereas"><heading>WHEREAS</heading>, the City of Chicago condemns acts of hatred and violence against all people regardless of ethnic, religious or racial identity - an attack on any one of us, is an attack on all of us; NOW, THEREFORE,</level>
     <level role="resolved">
-      <text>BE IT RESOLVED, that we, the Chicago City Council and the Mayor, assembled on this 12th Day of September 2012, do the following:</text>
+      <text><heading>BE IT RESOLVED</heading>, that we, the Chicago City Council and the Mayor, assembled on this 12th Day of September 2012, do the following:</text>
       <level>Work with community groups to promote education and dialogue on diverse cultures and religions, groimded in the belief that his makes us strong as a city and nation;</level>
       <level>Celebrate diversity and continue to create a welcoming environment for all Chicagoans;</level>
       <level>Continue to denounce hate crimes and bigotry in public and political discourse;</level>
@@ -35,7 +35,7 @@
       <level>Continue to use the Chicago Commission on Human Relations to denounce hate crimes and bigotry in political discourse.</level>
       <level>Utilize the Mayor's Office of Public Engagement to continue connecting Chicagoans, new Chicagoans, and community groups to services and create forums for dialogue on diversity</level>
     </level>
-    <level role="furtherResolved">BE IT FURTHER RESOLVED, that suitable copies of this resolution are provided to: the Sikh Temple of Wisconsin; the City of Oak Creek, Wisconsin; the Oak Creek, Wisconsin, Police Department; the Council on American-Islamic Relations (CAIR) - Chicago; Sikh Chicago; the Sikh American Legal Defense and Education Fund (SALDEF); South Asian Americans Leading Together (SAALT); and the South Asian American Policy and Research Institute (SAAPRI).</level>
+    <level role="furtherResolved"><heading>BE IT FURTHER RESOLVED</heading>, that suitable copies of this resolution are provided to: the Sikh Temple of Wisconsin; the City of Oak Creek, Wisconsin; the Oak Creek, Wisconsin, Police Department; the Council on American-Islamic Relations (CAIR) - Chicago; Sikh Chicago; the Sikh American Legal Defense and Education Fund (SALDEF); South Asian Americans Leading Together (SAALT); and the South Asian American Policy and Research Institute (SAAPRI).</level>
     <signature>Ameya Pawar, Alderman, 47th Ward</signature>
   </main>
 </resolution>
