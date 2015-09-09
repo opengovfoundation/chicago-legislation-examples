@@ -1,33 +1,55 @@
 <?xml version="1.0"?>
-<resolution>
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dublinCore>
-      <dc:title>Declaration of April 30th as "Dia Del Nino (Children's Day)" in Chicago</dc:title>
-      <dc:publisher>Office of the Chicago Clerk</dc:publisher>
-      <dc:date>2015-04-15</dc:date>
-      <dc:format>text/xml</dc:format>
-      <dc:language>EN</dc:language>
-    </dublinCore>
-  </metadata>
-  <form>
-    <date>4/15/2015</date>
-    <sponsor>Mendoza (Clerk)</sponsor>
-    <sponsor>Solis (25)</sponsor>
-  </form>
-  <preamble>
-    <whereas><text>WHEREAS, Making the world a better place begins with young children. The greatest gift we will ever know is a child, born to love and grow. Children are citizens of the world v/ho need emotional and physical stability and should not, ordinarily be separated from their parents; and</text></whereas>
-    <whereas><text>WHEREAS, Children need a safe and loving environment to grow, learn, excel, and be happy. They are brilliant and ingenious in their own way. They strive to be independent yet need their family to guide and care for them. Their childhood is filled with bicycles and tricycles as well as bumps and bruises; and</text></whereas>
-    <whereas><text>WHEREAS. The United States should have an established national date to recognize the achievements and value of its children. Children are a precious treasure who will thrive on every hug and kiss; and </text></whereas>
-    <whereas><text>WHEREAS, April 30th, D/a del Nino (Children's Day) recognizes and acknowledges every child on earth. This day commemorates the lives of our future pride and joy, our children. Children of the Latino community have much to contribute to the future of this city; and </text></whereas>
-    <whereas><text>WHEREAS, More than 4,000 children and their families attend the Chicago D/a de los N/nos/Celebrating Young Americans Parade & Celebration each year. The parade strives to raise awareness about the importance of education for their children. This year's parade theme is Education: Every Ch/7d, Every DREAM; and </text></whereas>
-    <whereas><text>WHEREAS, This year the Chicago D;a de los Nihos Parade will be held on Saturday, April 25, 2015, kicking off at Plaza Tenochtitlan on 18th and Blue island Ave. followed by a Fiesta at Harrison Park on 18th Street and Wood Street; and </text></whereas>
-    <whereas><text>WHEREAS, By celebrating April 30*^ we are making a commitment to children that we will continue to listen, teach and nurture them; now, therefore. </text></whereas>
-  </preamble>
-  <resolution-body>
-    <level>
-      <text>BE IT RESOLVED , That we, the Mayor and the members of the Chicago City Council, assembled this 15*" day of April, 2015, do hereby proclaim April 30' to be Dia del Nino -Day of the Child in the City of Chicago.</text>
-    </level>
-  </resolution-body>
-  <signature>Susana A. Mendoza, City Clerk</signature>
-  <signature>Daniel Solis, Alderman 25th Ward</signature>
-</resolution>
+<akomaNtoso xsi:schemaLocation="http://www.akomantoso.org/2.0 ./akomantoso20.xsd">
+  <heirarchicalStructure name="resolution">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dublinCore>
+        <dc:title>Declaration of April 30th as "Dia Del Nino (Children's Day)" in Chicago</dc:title>
+        <dc:publisher>Office of the Chicago Clerk</dc:publisher>
+        <dc:date>2015-04-15</dc:date>
+        <dc:format>text/xml</dc:format>
+        <dc:language>EN</dc:language>
+      </dublinCore>
+    </metadata>
+    <preface>
+      <p>
+        <role>Sponsor</role>
+        <docProponent>Mendoza (Clerk)</docProponent>
+      </p>
+      <p>
+        <role>Sponsor</role>
+        <docProponent>Solis (25)</docProponent>
+      </p>
+      <p>
+        <docDate date="2015-04-15">4/15/2015</docDate>
+      </p>
+      <p>
+        <docType>Resolution</docType>
+      </p>
+      <p>
+        <docTitle>
+          Declaration of April 30th as "Dia Del Nino (Children's Day)" in Chicago
+        </docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <container name="whereas">
+        <p>WHEREAS, Making the world a better place begins with young children. The greatest gift we will ever know is a child, born to love and grow. Children are citizens of the world v/ho need emotional and physical stability and should not, ordinarily be separated from their parents; and</p>
+        <p>WHEREAS, Children need a safe and loving environment to grow, learn, excel, and be happy. They are brilliant and ingenious in their own way. They strive to be independent yet need their family to guide and care for them. Their childhood is filled with bicycles and tricycles as well as bumps and bruises; and</p>
+        <p>WHEREAS. The United States should have an established national date to recognize the achievements and value of its children. Children are a precious treasure who will thrive on every hug and kiss; and </p>
+        <p>WHEREAS, April 30th, D/a del Nino (Children's Day) recognizes and acknowledges every child on earth. This day commemorates the lives of our future pride and joy, our children. Children of the Latino community have much to contribute to the future of this city; and </p>
+        <p>WHEREAS, More than 4,000 children and their families attend the Chicago D/a de los N/nos/Celebrating Young Americans Parade & Celebration each year. The parade strives to raise awareness about the importance of education for their children. This year's parade theme is Education: Every Ch/7d, Every DREAM; and </p>
+        <p>WHEREAS, This year the Chicago D;a de los Nihos Parade will be held on Saturday, April 25, 2015, kicking off at Plaza Tenochtitlan on 18th and Blue island Ave. followed by a Fiesta at Harrison Park on 18th Street and Wood Street; and </p>
+        <p>WHEREAS, By celebrating April 30*^ we are making a commitment to children that we will continue to listen, teach and nurture them; now, therefore. </p>
+      </container>
+    </preamble>
+    <body name="resolution">
+      <container name="resolution">
+        <p>BE IT RESOLVED , That we, the Mayor and the members of the Chicago City Council, assembled this 15*" day of April, 2015, do hereby proclaim April 30' to be Dia del Nino -Day of the Child in the City of Chicago.</p>
+      </container>
+    </body>
+    <conclusions>
+      <signature>Susana A. Mendoza, City Clerk</signature>
+      <signature>Daniel Solis, Alderman 25th Ward</signature>
+    </conclusions>
+  </heirarchicalStructure>
+</akomaNtoso>
